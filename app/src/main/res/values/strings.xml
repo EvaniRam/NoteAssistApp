@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NoteAssist</string>
+    <string name="no_notes"> No Notes Available</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Enter Notes Here</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_note">Add Note</string>
+    <string name="title_activity_add_note"></string>
+    <string name="save_note">Save Note</string>
 </resources>
+
+
+
+
